@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-9ttz33mh"",
-  ""goal"": ""alerts router for incident triage"",
-  ""language"": ""python"",
-  ""template"": ""python-cli""
+    "name":  "specproj-9ttz33mh",
+    "goal":  "alerts router for incident triage",
+    "language":  "python",
+    "template":  "python-cli"
 }
